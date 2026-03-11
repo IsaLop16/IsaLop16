@@ -29,26 +29,27 @@ Soy Ingeniera de Sistemas con experiencia en análisis de información y constru
 ## Tecnologías que uso 
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+<img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+<img src="https://img.shields.io/badge/ETL%20Processes-4CAF50?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
 </p>
-
----
-
 ## Mis redes sociales 🤝
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/isabela-l%C3%B3pez-cardona-ba1ab0308/)">
+<a href="https://www.linkedin.com/in/isabela-l%C3%B3pez-cardona-ba1ab0308/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60"/>
 </a>
 
-<a href="[https://www.instagram.com/TU-USUARIO](https://www.instagram.com/isabela_lopez1613/?hl=es)">
+<a href="https://www.instagram.com/isabela_lopez1613/?hl=es" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="60"/>
 </a>
 
 </p>
-
 
 
