@@ -23,3 +23,17 @@
   </ul>
 </div>
 
+Soy Ingeniera de Sistemas con experiencia en análisis de información y construcción de indicadores. He trabajado en proyectos académicos y profesionales donde integré y transformé datos con SQL y Python para apoyar la toma de decisiones; en la transformación de información manual hacia soluciones estructuradas, logrando mejorar tiempos y calidad en el análisis. Me caracterizo por mi enfoque analítico y responsabilidad en el manejo de datos. Me interesa aplicar el análisis cuantitativo en entornos financieros, especialmente en seguimiento de cartera, contribuyendo a la identificación temprana de riesgos y oportunidades de mejora.
+
+## Tecnologías
+- Python
+- SQL
+- Pandas
+- Power BI
+- Power Platform
+- Microsoft 365
+- ML (Machine learning)
+- Procesos de ETL
+
+
+
