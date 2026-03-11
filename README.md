@@ -38,6 +38,7 @@ Soy Ingeniera de Sistemas con experiencia en análisis de información y constru
 <img src="https://img.shields.io/badge/ETL%20Processes-4CAF50?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 
 </p>
+
 ## Mis redes sociales 🤝
 
 <p align="center">
@@ -45,7 +46,8 @@ Soy Ingeniera de Sistemas con experiencia en análisis de información y constru
 <a href="https://www.linkedin.com/in/isabela-l%C3%B3pez-cardona-ba1ab0308/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60"/>
 </a>
-
+<p align="center">
+  
 <a href="https://www.instagram.com/isabela_lopez1613/?hl=es" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="60"/>
 </a>
