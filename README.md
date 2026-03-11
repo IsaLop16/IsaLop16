@@ -1,12 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:F8BBD0&height=200&section=header&text=Hola,%20soy%20Isabela%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:F8BBD0&height=150&section=header&text=Hola,%20soy%20Isabela%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block; font-size:80px;">
-        🦾👩🏽‍💻📷
-      </h2>
-    </summary>
-  </ul>
+<div align="center" style="margin-top:-10px; font-size:80px;">
+👩🏽‍💻
+</div>
 
 <h2 align="center">Sobre mí</h2>
 
