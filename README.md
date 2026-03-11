@@ -1,23 +1,14 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Isabela</h1></summary>
-  </ul>
 </div>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=200&section=header&text=Hola,%20soy%20Isabela%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-</div>
-
-
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">👩🏽‍💻</h2></summary>
+    <summary>
+      <h2 style="display: inline-block; font-size:60px;">
+        🦾👩🏽‍💻📷
+      </h2>
+    </summary>
   </ul>
 </div>
 
