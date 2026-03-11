@@ -9,10 +9,8 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=200&section=header&text=Hola,%20soy%20Isabela%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+
 </div>
 
 
