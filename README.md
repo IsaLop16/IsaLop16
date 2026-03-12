@@ -1,7 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:F8BBD0&height=150&section=header&text=Hola,%20soy%20Isabela%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:F8BBD0&height=170&section=header&text=Hola,%20soy%20Isabela%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-<div align="center" style="margin-top:-10px; font-size:80px;">
-👩🏽‍💻
+<div align="center" style="margin-top:-35px;">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=4&section=header"/>
+
+<p style="margin-top:-15px; font-size:110px; font-weight:1000; color:#4A4A4A;">
+Ingeniera de Sistemas   |   Analista de Datos
+</p>
+
+</div>
+
+<div align="center" style="margin-top:-5px;">
+<span style="font-size:95px;">👩🏽‍💻</span>
 </div>
 
 <h2 align="center">Sobre mí</h2>
